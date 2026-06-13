@@ -102,9 +102,9 @@ async def wtf(_, message: Message):
     animation_chars = [
         "What",
         "What The",
-        "What The F",
-        "What The F Brah",
-        "What The F Brah\nhttps://telegra.ph//file/f3b760e4a99340d331f9b.jpg",
+        "What The F*ck",
+        "What The F*ck Brah",
+        "What The F*ck Brah\nhttps://graph.org/file/42e240c994fcc8be971ef-23535820002244793a.jpg",
     ]
     for i in animation_ttl:
         await asyncio.sleep(animation_interval)
